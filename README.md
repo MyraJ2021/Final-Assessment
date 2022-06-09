@@ -3,7 +3,7 @@
 ## Self-Assessment
 ### Machine Learning
 Over the course of The GW University Data Analytics Boot Camp Project, I was able to use my skills in machine learning to contribute regression model code, perform model evaluation and correlation analyses, and organize evaluation results in pandas dataframe tables.
-[pic01](pic01.png)
+![pic01](pic01.png)
 
 ### Supporting Roles
 Early in the project, I was able to support teammates assigned the role of database management in brainstorming solutions to connect our eighth and final dataset to the rest of our database when it lacked a common column on which to join.  Using data from two columns of the eightf dataset, I conducted Application Programming Interface (API) call requests to create the missing common column.
