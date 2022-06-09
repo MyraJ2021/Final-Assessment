@@ -3,6 +3,7 @@
 ## Self-Assessment
 ### Machine Learning
 Over the course of The GW University Data Analytics Boot Camp Project, I was able to use my skills in machine learning to contribute regression model code, perform model evaluation and correlation analyses, and organize evaluation results in pandas dataframe tables.
+
 ![pic01](pic01.png)
 
 ### Supporting Roles
